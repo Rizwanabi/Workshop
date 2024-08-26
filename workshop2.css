@@ -124,9 +124,9 @@ footer{
     font-family: cursive;
 }
 @media screen and (width<=576px){
-    .image1{
+    /* .image1{
         height: 100vh;
-    }
+    } */
     .nav{
         margin-top: -90%;
         font-family: cursive;
