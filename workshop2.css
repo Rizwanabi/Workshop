@@ -18,9 +18,11 @@
     margin-top: -40%;
     font-family: cursive;
     position: fixed;
+    z-index: 1;
 }
-.navbar a{
+.navbar a, a:visited{
     text-decoration: none;
+    color: black;
 }
 .navbar{
     display: flex;
